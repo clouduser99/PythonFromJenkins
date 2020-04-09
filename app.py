@@ -1,1 +1,1 @@
-print('Hello, world and testing of WebHooks !')
+print('Hello, world and testing of WebHooks!')
