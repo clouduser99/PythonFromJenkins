@@ -19,9 +19,9 @@ task build
 }*/
 task zip(type: Zip) {
     archiveFileName = "HelloWorld.zip"
-    destinationDirectory = file("$buildDir/srcHelloWorld")
+    destinationDirectory = file("./srcHelloWorld")
 
-    from "$buildDir"
+    from "."
         include "app.py"
         println 'packaged'
 }
