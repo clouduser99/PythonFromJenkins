@@ -13,7 +13,7 @@ println '-----------STARTED BUILD GRADLE ---------'
 task build
         task compile(type: Exec){
                 workingDir '/home/ec2-user/PythonFromJenkins'
-                commandLine 'python', 'app.py'
+                commandLine "python", "app.py"
         println 'Compiled'
 
 }
