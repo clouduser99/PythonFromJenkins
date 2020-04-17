@@ -4,3 +4,28 @@
  * This is a general purpose Gradle build.
  * Learn how to create Gradle builds at https://guides.gradle.org/creating-new-gradle-builds
  */
+
+plugins {
+                  id "ru.vyarus.use-python" version "2.2.0"
+        }
+buildDir  = "/home/ec2-user/PythonFromJenkins"
+println '-----------STARTED BUILD GRADLE ---------'
+task build
+        task compile(type: Exec){
+                workingDir '/home/ec2-user/PythonFromJenkins'
+                commandLine 'python', 'app.py'
+        println 'Compiled'
+
+}
+task zip(type: Zip) {
+    archiveFileName = "HelloWorld.zip"
+    destinationDirectory = file("$buildDir/srcHelloWorld")
+
+    from "$buildDir"
+        include "app.py"
+        println 'packaged'
+}
+build.dependsOn zip
+zip.dependsOn compile
+
+
