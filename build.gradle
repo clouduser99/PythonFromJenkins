@@ -8,15 +8,14 @@
 plugins {
                   id "ru.vyarus.use-python" version "2.2.0"
         }
-buildDir  = "/home/ec2-user/PythonFromJenkins"
 println '-----------STARTED BUILD GRADLE ---------'
 task build
-        /*task compile(type: Exec){
-                workingDir '$buildDir'
+        task compile(type: Exec){
+                workingDir '.'
                 commandLine 'python', 'app.py'
         println 'Compiled'
 
-}*/
+}
 task zip(type: Zip) {
     archiveFileName = "HelloWorld.zip"
     destinationDirectory = file("./srcHelloWorld")
@@ -26,6 +25,6 @@ task zip(type: Zip) {
         println 'packaged'
 }
 build.dependsOn zip
-//zip.dependsOn compile
+zip.dependsOn compile
 
 
