@@ -16,7 +16,7 @@ task build
         println 'Compiled'
 
 }
-task zip(type: Zip) {
+/*task zip(type: Zip) {
     archiveFileName = "HelloWorld.zip"
     destinationDirectory = file("./srcHelloWorld")
 
@@ -27,4 +27,6 @@ task zip(type: Zip) {
 build.dependsOn zip
 zip.dependsOn compile
 
+*/
 
+build.dependsOn compile
