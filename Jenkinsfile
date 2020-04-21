@@ -12,5 +12,36 @@ pipeline
        
       }
     }
+
+   stage ('Deploy to Staging'){
+	when {
+		branch 'master'
+	}
+	steps {
+                withCredentials([usernamePassword(credentialsId: 'webserver_login', usernameVariable: 'USERNAME', passwordVariable: 'USERPASS')]) {
+                    sshPublisher(
+                        failOnError: true,
+                        continueOnError: false,
+                        publishers: [
+                            sshPublisherDesc(
+                                configName: 'staging',
+                                sshCredentials: [
+                                    username: "$USERNAME",
+                                    encryptedPassphrase: "$USERPASS"
+                                ], 
+                                transfers: [
+                                    sshTransfer(
+                                        sourceFiles: 'srcHelloWorld/HelloWorld.zip',
+                                        removePrefix: 'srcHelloWorld/',
+                                        remoteDirectory: '/tmp',
+                                        execCommand: 'unzip /tmp/HelloWorld.zip -d /opt/HelloWorld'
+                                    )
+                                ]
+                            )
+                        ]
+                    )
+                }
   }
+}
+}
 }
