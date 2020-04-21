@@ -17,7 +17,9 @@ pipeline
 	when {
 		branch 'master'
 	}
+	echo 'Inside deployment'
 	steps {
+	echo 'Inside steps'
                 withCredentials([usernamePassword(credentialsId: 'webserver_login', usernameVariable: 'USERNAME', passwordVariable: 'USERPASS')]) {
                     sshPublisher(
                         failOnError: true,
@@ -40,6 +42,7 @@ pipeline
                             )
                         ]
                     )
+echo 'Outside'
                 }
   }
 }
