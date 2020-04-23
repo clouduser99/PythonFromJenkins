@@ -9,6 +9,7 @@ pipeline
       steps {
         echo 'Running Build Automation'
         sh './gradlew build'
+	archiveArtifacts artifacts: 'srcHelloWorld/HelloWorld.zip'
        
       }
     }
