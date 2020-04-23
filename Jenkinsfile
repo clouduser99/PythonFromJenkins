@@ -18,6 +18,7 @@ pipeline
 	when {
 		branch 'master'
 	}
+	echo 'Current dir is :'$PWD
 	steps {
 	echo 'Inside steps'
                 withCredentials([usernamePassword(credentialsId: 'deployment_login', usernameVariable: 'USERNAME', passwordVariable: 'USERPASS')]) {
@@ -42,8 +43,6 @@ pipeline
                             )
                         ]
                     )
-echo 'Current dir is :'$PWD
-echo 'Outside'
                 }
   }
 }
