@@ -42,7 +42,7 @@ pipeline
                             )
                         ]
                     )
-echo "Current dir is :"$PWD
+echo 'Current dir is :'$PWD
 echo 'Outside'
                 }
   }
