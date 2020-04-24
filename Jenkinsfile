@@ -18,7 +18,8 @@ pipeline
 	when {
 		branch 'master'
 	}
-	echo 'Current dir is :'$PWD
+	location=$PWD
+	echo 'Current dir is :'$location
 	steps {
 	echo 'Inside steps'
                 withCredentials([usernamePassword(credentialsId: 'deployment_login', usernameVariable: 'USERNAME', passwordVariable: 'USERPASS')]) {
