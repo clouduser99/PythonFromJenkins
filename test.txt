@@ -1,0 +1,1000 @@
+   11  Could not create service of type BuildSessionScopeServices$CrossBuildFileHashCacheWrapper using BuildSessionScopeServices.createCrossBuildChecksumCache().
+   12  pwd
+   13  clear
+   14  ls -ltr
+   15  pwd
+   16  clear
+   17  pwd
+   18  ls -ltr
+   19  chmod 777 .gradle
+   20  chmod 777 gradle
+   21  sudo chmod 777 gradle
+   22  ./gradle
+   23  pwd
+   24  ls -ltr
+   25  cd /var/lib
+   26  sudo chmod 777 jenkins
+   27  cd jenkins
+   28  ls -ltr
+   29  cd tools
+   30  ls
+   31  pwd
+   32  cd ..
+   33  sudo chmod -R 777 tools
+   34  ls -ltr
+   35  cd tools
+   36  ls -ltr
+   37  cd hudson.plugins.gradle.GradleInstallation/
+   38  ls -ltr
+   39  cd gradlelatestversion/
+   40  ls -ltr
+   41  cd bin
+   42  ls -ltr
+   43  ./gradle
+   44  cd ~
+   45  ls -ltr
+   46  cd PythonFromJenkins/
+   47  ls -ltr
+   48  cd ..
+   49  ls -ltr
+   50  clear
+   51  ls -ltr
+   52  vi build.gradle 
+   53  cd /var/lib/jenkins/tools/hudson.plugins.gradle.GradleInstallation
+   54  ls -ltr
+   55  rm -r GradleLatestVersion LatestVersion Gradle6.3 gradle6.3 gradle6.4
+   56  ls -ltr
+   57  cd gradlelatestversion/
+   58  ls
+   59  cd bin
+   60  ls
+   61  ./gradle build
+   62  vi gradle.sh
+   63  vi gradle
+   64  echo $DEFAULT_JVM_OPTS
+   65  vi gradle
+   66  clear
+   67  pwd
+   68  ls -ltr
+   69  sudo cp gradle gradle_bkp.sh
+   70  ls -ltr
+   71  vi gradle
+   72  ./gradle
+   73  ./gradle build
+   74  vi gradle
+   75  ./gradle build --stacktrace
+   76  vi gradle
+   77  ./gradle build --stacktrace
+   78  cd ~
+   79  vi build.gradle 
+   80  cd -
+   81  ./gradle build --stacktrace
+   82  cd ~
+   83  pwd
+   84  ls -ltr
+   85  chmod 777 build.gradle
+   86  ls ltr
+   87  ls -ltr
+   88  cd -
+   89  ./gradle build
+   90  cd -
+   91  ls -ltr
+   92  chmod -R 777 ./PythonFromJenkins/*
+   93  cd PythonFromJenkins/
+   94  ls -ltr
+   95  pwd
+   96  cd /var/lib/jenkins/tools/hudson.plugins.gradle.GradleInstallation/gradlelatestversion/bin
+   97  ./gradle build
+   98  echo $JAVA_HOME
+   99  echo $GRADLE_USER_HOME
+  100  vi gradle
+  101  ./gradle
+  102  ./gradle build
+  103  java --version
+  104  java --v
+  105  java -v
+  106  cd /etc/profile
+  107  cd /etc
+  108  ls -ltr profile
+  109  vi profile
+  110  clear
+  111  java –version
+  112  java -version
+  113  pwd
+  114  cd ~
+  115  ls -ltra
+  116  vi .bash_profile
+  117  vi .bashrc
+  118  cd -
+  119  cd /var/lib/jenkins/tools/hudson.plugins.gradle.GradleInstallation/gradlelatestversion
+  120  ls -ltr
+  121  cd bin/
+  122  ls
+  123  vi gradle
+  124  clear
+  125  pwd
+  126  ls -ltr
+  127  java
+  128  clear
+  129  echo $PATH
+  130  which java
+  131  cd /etc
+  132  ls -ltr
+  133  ls -ltr profile
+  134  sudo vi profile
+  135  ls -ltr profile*
+  136  cd profile.d
+  137  ls -ltr
+  138  vi gradle.sh 
+  139  cd ~
+  140  pwd
+  141  vi .bash_profile
+  142  cd /etc
+  143  sudo vi profile
+  144  clear
+  145  pwd
+  146  cd /var/lib/jenkins/tools/hudson.plugins.gradle.GradleInstallation/gradlelatestversion/bin
+  147  ls -ltr
+  148  ./gradle build --stacktrace
+  149  bash
+  150  cd /var/lib/jenkins/tools/hudson.plugins.gradle.GradleInstallation/gradlelatestversion/bin
+  151  ./gradle build
+  152  echo $PATH
+  153  pwd
+  154  cd -
+  155  vi .bash_profile
+  156  cd /etc
+  157  sudo vi profile
+  158  pwd
+  159  ls -ltra
+  160  sudo cd profile.d
+  161  ls -ltr
+  162  vi profile
+  163  sudo vi profile.d
+  164  sudo cd profile.d
+  165  ls -ltr
+  166  pwd
+  167  sudo cd profile.d
+  168  ls -ltr
+  169  pwd
+  170  sudo su
+  171  echo $JAVA_HOME
+  172  cd /var/lib/jenkins/tools/hudson.plugins.gradle.GradleInstallation/gradlelatestversion/bin
+  173  ./gradle build
+  174  java -version
+  175  sudo yum -y install java-1.8.0-openjdk epel-release
+  176  clear
+  177  sudo yum -y install java-1.8.0-openjdk epel-release
+  178  sudo yum -y install java-1.8.0-openjdk
+  179  echo $JAVA_HOME
+  180  cd /var/lib/jenkins/tools/hudson.plugins.gradle.GradleInstallation/gradlelatestversion/bin
+  181  ./gradle build --stacktrace
+  182  echo $JAVA_HOME
+  183  pwd
+  184  echo $JAVA_HOME
+  185  cd /var/lib/jenkins/tools/hudson.plugins.gradle.GradleInstallation/gradlelatestversion/bin/
+  186  ./gradle build
+  187  env
+  188  clear
+  189  pwd
+  190  ls -ltra
+  191  sudo vi .bash_profile
+  192  sudo vi .bashrc
+  193  sudo vi .bash_profile
+  194  cd /var/lib/jenkins/tools/hudson.plugins.gradle.GradleInstallation/gradlelatestversion/bin/gradle
+  195  cd /var/lib/jenkins/tools/hudson.plugins.gradle.GradleInstallation/gradlelatestversion/bin/
+  196  ./gradle build
+  197  vi gradle
+  198  cd ~
+  199  ls
+  200  ls -ltra
+  201  vi .bash_profile
+  202  vi .bashrc
+  203  pwd
+  204  cd /var/lib/jenkins/tools/hudson.plugins.gradle.GradleInstallation/gradlelatestversion/bin/
+  205  ls -ltr
+  206  ./gradle build
+  207  vi gradle
+  208  ./gradle build
+  209  vi gradle
+  210  ./gradle build
+  211  vi gradle
+  212  ./gradle build
+  213  pwd
+  214  vi gradle
+  215  ./gradle build
+  216  cd /opt/gradle/
+  217  ls
+  218  cd gradle-6.3/
+  219  ls
+  220  cd bin
+  221  ls
+  222  vi gradle
+  223  ./gradle build --stacktrace
+  224  ./gradle build
+  225  ./gradle build --stacktrace
+  226  pwd
+  227  cd ~
+  228  cd /
+  229  find . -name "workspace"
+  230  cd ./var/lib/jenkins
+  231  ls -ltra
+  232  cd workspace
+  233  ls
+  234  cd PythonHelloWorldFreestyleWithWebhooks/
+  235  ls
+  236  pwd
+  237  cd ../../.gradle
+  238  ls
+  239  ls -ltr
+  240  cd daemon/
+  241  ls
+  242  cd ../caches/
+  243  ls
+  244  cd ../notifications/
+  245  ls
+  246  pwd
+  247  clear
+  248  pwd
+  249  cd ~
+  250  pwd
+  251  ls -ltr
+  252  cd PythonFromJenkins/
+  253  ./gradle init
+  254  gradle wrapper
+  255  ./gradlew init
+  256  gradle wrapper --stacktrace
+  257  pwd
+  258  cd ..
+  259  ls -ltra
+  260  vi settings.gradle
+  261  cd PythonFromJenkins/
+  262  gradle wrapper
+  263  gradle wrapper --stacktrace
+  264  pwd
+  265  ls -ltra
+  266  cd ..
+  267  ls -ltra
+  268  cd .gradle
+  269  ls -ltra
+  270  cd checksums/
+  271  ls
+  272  pwd
+  273  sudo systemctl stop jenkins ; sudo systemctl start jenkins; curl ipinfo.io/ip
+  274  pwd
+  275  cd ~/PythonFromJenkins/
+  276  gradle wrapper
+  277  gradle wrapper --stacktrace
+  278  gradle ~/wrapper --stacktrace
+  279  gradle /home/ec2-user/wrapper
+  280  echo $GRADLE_USER_HOME
+  281  pwd
+  282  cd /opt
+  283  ls -ltr
+  284  cd gradle/
+  285  ls -ltr
+  286  cd gradle-6.3/
+  287  ls -ltr
+  288  cd bin
+  289  ls -ltr
+  290  gradle wrapper
+  291  pwd
+  292  cd ~
+  293  ls -ltr
+  294  cd gradle/
+  295  ls
+  296  pwd
+  297  ls -ltr
+  298  cd wrapper/
+  299  ls -ltr
+  300  vi gradle-wrapper.properties 
+  301  pwd
+  302  cd ~/PythonFromJenkins/
+  303  gradle /home/ec2-user/gradle/wrapper
+  304  gradle /home/ec2-user/gradle/wrapper --stacktrace
+  305  pwd
+  306  cd ..
+  307  ls -ltr
+  308  gradle wrapper
+  309  ls -ltr
+  310  ./gradlew build
+  311  ls -ltr
+  312  rm -r srcHelloWorld
+  313  ls -ltr
+  314  pwd
+  315  cd PythonFromJenkins
+  316  ls -ltr
+  317  git status
+  318  pwd
+  319  ls -ltr
+  320  ./gradle wrapper
+  321  pwd
+  322  cd ..
+  323  ls -ltra
+  324  cd gradle
+  325  cd /opt
+  326  ls -ltr
+  327  cd gradle/
+  328  ls -ltr
+  329  cd gradle-6.3/
+  330  ls -ltr
+  331  cd bin
+  332  ls -ltr
+  333  pwd
+  334  cd ~
+  335  pwd
+  336  cd PythonFromJenkins/
+  337  gradle wrapper
+  338  gradle wrapper --stacktrace
+  339  pwd
+  340  cd ..
+  341  ls -ltra
+  342  chmod 777 gradle
+  343  cd PythonFromJenkins/
+  344  gradle wrapper
+  345  pwd
+  346  cd ..
+  347  vi settings.gradle 
+  348  cd PythonFromJenkins
+  349  gradle wrapper
+  350  gradle wrapper --stacktrace
+  351  pwd
+  352  cd ..
+  353  vi settings.gradle 
+  354  pwd
+  355  cd PythonFromJenkins/
+  356  ls -ltr
+  357  cldear
+  358  clear
+  359  pwd
+  360  ~/gradlew init
+  361  ls -ltr
+  362  sudo systemctl stop jenkins; sudo systemctl start jenkins;curl ipinfo.io/ip
+  363  pwd
+  364  cd ..
+  365  ls -ltr
+  366  cd PythonFromJenkins/
+  367  ls -ltr
+  368  git status
+  369  git add .
+  370  git status
+  371  git commit -m "gradle files added"
+  372  git push
+  373  git push --set-upstream origin localBranch
+  374  pwd
+  375  clear
+  376  pwd
+  377  cd /var/
+  378  ls
+  379  cd lib
+  380  cd jenkins
+  381  ls -ltr
+  382  cd workspace/
+  383  ls
+  384  cd PythonHelloWorldFreestyleWithWebhooks/
+  385  ls
+  386  vi build.gradle 
+  387  cd ~
+  388  ls -ltr
+  389  vi build.gradle 
+  390  cd PythonFromJenkins/
+  391  ls -ltr
+  392  vi build.gradle 
+  393  gradlew build
+  394  ./gradlew build
+  395  pwd
+  396  cd ..
+  397  ls -ltr
+  398  rm -r srcHelloWorld/
+  399  cd PythonFromJenkins/
+  400  vi build.gradle 
+  401  ./gradlew build
+  402  ls -ltr
+  403  cd srcHelloWorld/
+  404  ls -ltr
+  405  unzip HelloWorld.zip 
+  406  ls
+  407  pwd
+  408  cd ..
+  409  ls -ltr
+  410  rm -r srcHelloWorld/
+  411  ls -ltr
+  412  git status
+  413  clear
+  414  pwd
+  415  got status
+  416  git status
+  417  git add .
+  418  git status
+  419  git commit -m "build gradle modified"
+  420  git status
+  421  git push
+  422  sudo systemctl stop jenkins; sudo systemctl start jenkins;curl ipinfo.io/ip
+  423  sudo passwd root
+  424  pwd
+  425  cd PythonFromJenkins/
+  426  LS -LTR
+  427  ls -ltr
+  428  ./gradlew build
+  429  ls -ltr
+  430  python app.py
+  431  rm -r srcHelloWorld/
+  432  ls -ltr
+  433  vi build.gradle 
+  434  pwd
+  435  ls -ltr
+  436  chmod 777 ./*
+  437  ls -ltr
+  438  pwd
+  439  git status
+  440  git add
+  441  git add >
+  442  git add .
+  443  git commit
+  444  git commit -m "permissions modified"
+  445  git push
+  446  sudo yum  install python3
+  447  python3 --version
+  448  sudo systemctl stop jenkins; sudo systemctl start jenkins;curl ipinfo.io/ip
+  449  pwd
+  450  cd /var/lib/jenkins/tools/hudson.plugins.gradle.GradleInstallation/gradlelatestversion/bin/gradle
+  451  cd /var/lib/jenkins/tools/hudson.plugins.gradle.GradleInstallation/gradlelatestversion/bin
+  452  pwd
+  453  ls -ltr
+  454  gradle build --stacktrace
+  455  cd -
+  456  cd PythonFromJenkins/
+  457  ls -ltr
+  458  vi build.gradle 
+  459  ./gradlew build
+  460  ls -ltr
+  461  rm -r srcHelloWorld/
+  462  ls -ltr
+  463  git add .
+  464  git status
+  465  git commit -m "build file changed"
+  466  git push
+  467  sudo systemctl stop jenkins; sudo systemctl start jenkins;curl ipinfo.io/ip
+  468  ps -ef | grep -i daemon
+  469  gradle --stop
+  470  ps -ef | grep -i daemon
+  471  pwd
+  472  cd ?
+  473  cd /
+  474  pwd
+  475  find . -name "python"
+  476  cd ./var/lib/jenkins/plugins/python
+  477  ls -ltr
+  478  cd /usr/bin/
+  479  ls -ltr
+  480  pwd
+  481  ls -ltr python*
+  482  cd ./var/lib/jenkins/plugins/python
+  483  cd /var/lib/jenkins/plugins/python
+  484  ls -ltr
+  485  cd WEB-INF/
+  486  ls
+  487  ls -ltr
+  488  cd /etc
+  489  ls
+  490  ls -ltr python
+  491  pwd
+  492  vi cert-verification.cfg
+  493  pwd
+  494  cd ~
+  495  cd PythonFromJenkins/
+  496  vi app.py
+  497  ./gradlew build
+  498  ls -ltr
+  499  rm -r srcHelloWorld/
+  500  ls -ltr
+  501  git status
+  502  git add .
+  503  git commit -m "python code changed"
+  504  git push
+  505  clear
+  506  ps -ef | grep -i daemon
+  507  gradle --stop
+  508  ps -ef | grep -i daemon
+  509  curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
+  510  sudo python3 get-pip.py
+  511  pip -help
+  512  python --version
+  513  pip --version
+  514  pwd
+  515  vi build.gradle 
+  516  vi app.py
+  517  git add .
+  518  git commit -m "file changed"
+  519  git push
+  520  pwd
+  521  gradle --stop
+  522  clear
+  523  pwd
+  524  ls -ltr
+  525  sudo systemctl stop jenkins; sudo systemctl start jenkins;curl ipinfo.io/ip
+  526  pwd
+  527  cd /
+  528  find . -name "plugins"
+  529  cd ./var/lib/jenkins/plugins
+  530  pwd
+  531  ls -ltr
+  532  pwd
+  533  cd ~/PythonFromJenkins/
+  534  /var/lib/jenkins/plugins/python app.py
+  535  cd -
+  536  cd python
+  537  ls
+  538  cd META-INF/
+  539  ls
+  540  cd ..
+  541  cd WEB-INF/
+  542  ls
+  543  cd lib
+  544  ls
+  545  cd ~/PythonFromJenkins/
+  546  ls -ltr
+  547  chmod 777 get-pip.py 
+  548  git add .
+  549  git commit -m "get-pip.py"
+  550  git push
+  551  pwd
+  552  ls -ltr
+  553  pwd
+  554  cd ..
+  555  ls -ltr
+  556  chmod 777 PythonFromJenkins/
+  557  pwd
+  558  git status
+  559  cd PythonFromJenkins/
+  560  git status
+  561  pwd
+  562  ls -ltr
+  563  pwd
+  564  cd ..
+  565  ls -ltr
+  566  cd /
+  567  find . -name "jenkins"
+  568  clear
+  569  find . -name "plugins" > ~/output.txt
+  570  cd ~
+  571  vi output.txt 
+  572  cd ./opt/gradle/gradle-6.3/lib/plugins
+  573  ls
+  574  cd /opt/gradle/gradle-6.3/lib/plugins/
+  575  ls -ltr
+  576  pwd
+  577  cd /opt/jenkins
+  578  cd ~
+  579  vi output.txt 
+  580  cd /var/lib/jenkins/.gradle/wrapper/dists/gradle-6.3-bin/8tpu6egwsccjzp10c1jckl0rx/gradle-6.3/lib/plugins
+  581  ls -ltr
+  582  ls -ltr python*
+  583  cat ~/output.txt
+  584  cd /var/lib/jenkins/tools/hudson.plugins.gradle.GradleInstallation/gradlelatestversion/lib/plugins
+  585  ls -ltr
+  586  ls -ltr python*
+  587  ls -ltr python
+  588  ls -ltr git*
+  589  pwd
+  590  cd /var/lib/jenkins
+  591  ls -ltr
+  592  cd plugins/
+  593  ls -ltr
+  594  chmod 777 pyenv-pipeline.jpi  python.jpi python-wrapper.jpi
+  595  sudo chmod 777 pyenv-pipeline.jpi  python.jpi python-wrapper.jpi
+  596  ls -ltr
+  597  chmod -R 777 pyenv-pipeline python python-wrapper
+  598  sudo chmod -R 777 pyenv-pipeline python python-wrapper
+  599  pwd
+  600  ls -ltr
+  601  cd ~
+  602  pwd
+  603  vi build.gradle 
+  604  pwd
+  605  cd PythonFromJenkins/
+  606  vi build.gradle 
+  607  git add .
+  608  pwd
+  609  ls -ltr
+  610  git commit -m "build file changed"
+  611  git push
+  612  cd /var/lib/jenkins/workspace/PythonHelloWorldFreestyleWithWebhooks
+  613  ls -ltr
+  614  vi app.py
+  615  python app.py
+  616  vi build.gradle 
+  617  cd ~/PythonFromJenkins/
+  618  vi build.gradle 
+  619  git add . ;git commit -m "build file changed again" ;git push
+  620  pwd
+  621  ls -ltr
+  622  vi build.gradle 
+  623  pwd
+  624  ls -ltr
+  625  cd /var/lib/jenkins/workspace/PythonHelloWorldFreestyleWithWebhooks/
+  626  ls -ltr
+  627  pwd
+  628  cd -
+  629  vi build.gradle 
+  630  git add . ;git commit -m "build file changed again" ;git push
+  631  pwd
+  632  cd -
+  633  ls -ltr
+  634  rm -r srcHelloWorld/
+  635  sudo rm -r srcHelloWorld/
+  636  ls -ltr
+  637  cd ~/
+  638  cd PythonFromJenkins/
+  639  vi build.gradle 
+  640  git add . ;git commit -m "build file changed again" ;git push
+  641  date
+  642  pwd
+  643  vi app.py 
+  644  git add . ;git commit -m "build file changed again" ;git push
+  645  pwd
+  646  vi build.gradle 
+  647  pwd
+  648  ls -ltr
+  649  cd PythonFromJenkins/
+  650  ls -ltr
+  651  mv jenkinsfile Jenkinsfile
+  652  ls -ltr
+  653  git add .
+  654  git commit -m JenkinsFile
+  655  git push
+  656  clear
+  657  cd /
+  658  find . -name "workspace"
+  659  cd ./var/lib/jenkins/workspace
+  660  ls -ltr
+  661  pwd
+  662  ls -ltr
+  663  clear
+  664  gradle --stop
+  665  pwd
+  666  cd -
+  667  cd ~/PythonFromJenkins/
+  668  ls -ltr
+  669  vi Jenkinsfile 
+  670  pwd
+  671  git add .
+  672  git commit -m JnekinsFile
+  673  git status
+  674  git puch
+  675  git push
+  676  curl ipinfo.io/ip
+  677  cd /var/lib/jenkins/workspace/
+  678  ls -ltr
+  679  pwd
+  680  ls -ltr
+  681  date
+  682  pwd
+  683  cd ~/PythonFromJenkins/
+  684  vi Jenkinsfile 
+  685  git add . ;git commit -m JenkinsFile ;git push
+  686  pwd
+  687  ls -ltr
+  688  cd -
+  689  ls -ltr
+  690  cd ldMultibranchWithWebhooks_master
+  691  ls -ltr
+  692  cd srcHelloWorld/
+  693  ls -ltr
+  694  pwd
+  695  date
+  696  pwd
+  697  cd ../..
+  698  ls -ltr
+  699  cd PythonHelloWorldFreestyleWithWebhooks
+  700  ls -ltr
+  701  pwd
+  702  ls -ltr
+  703  clear
+  704  ls -ltr
+  705  cd srcHelloWorld/
+  706  ls
+  707  cd -
+  708  pwd
+  709  cd ~
+  710  pwd
+  711  cd PythonFromJenkins/
+  712  ls -ltr
+  713  vi build.gradle 
+  714  git add . ;git commit -m gradlefile ;git push
+  715  clear
+  716  pwd
+  717  sudo systemctl stop jenkins
+  718  sudo systemctl start jenkins
+  719  pwd
+  720  cd /var/lib/jenkins/workspace/
+  721  ls -ltr
+  722  cd PythonHelloWorldFreestyleWithWebhooks
+  723  ls -ltr
+  724  date
+  725  rm -r srcHelloWorld
+  726  ls -ltr
+  727  sudo rm -r srcHelloWorld
+  728  ls -ltr
+  729  pwd
+  730  ls -ltr
+  731  cd ~/PythonFromJenkins/
+  732  vi build.gradle 
+  733  git add . ;git commit -m gradlefile ;git push
+  734  cd -
+  735  ls -ltr
+  736  cd PythonFromJenkins/
+  737  ls -ltr
+  738  vi build.gradle 
+  739  cd /var/lib/jenkins/workspace/
+  740  ls -ltr
+  741  clear
+  742  pwd
+  743  ls -ltr
+  744  cd -
+  745  ls -ltr
+  746  cp Jenkinsfile Jenkinsfile_bkp
+  747  vi Jenkinsfile
+  748  pwd
+  749  hstory
+  750  history
+  751  git add . ;git commit -m "Jenkins file";git push
+  752  pwd
+  753  ls -ltr
+  754  vi Jenkinsfile
+  755  clear
+  756  git add . ;git commit -m "Jenkins file";git push
+  757  vi Jenkinsfile
+  758  git add . ;git commit -m "Jenkins file";git push
+  759  sudo systemctl start jenkins
+  760  sudo systemctl stop jenkins
+  761  sudo systemctl start jenkins
+  762  stop --gradle
+  763  gradle --stop
+  764  pwd
+  765  vi Jenkinsfile
+  766  git add . ;git commit -m "Jenkins file";git push
+  767  vi Jenkinsfile
+  768  git add . ;git commit -m "Jenkins file";git push
+  769  clear
+  770  sudo systemctl stop jenkins
+  771  sudo systemctl start jenkins
+  772  cd PythonFromJenkins/
+  773  ls -ltr
+  774  vi Jenkinsfile
+  775  ssh 3.22.63.134
+  776  pwd
+  777  cd/opt
+  778  cd /opt
+  779  ls
+  780  clear
+  781  ssh 3.22.63.134@deploy
+  782  ssh deploy@ Name or service not known
+  783  clear
+  784  ssh deploy@3.22.63.134
+  785  ssh deploy@ec2-3-22-63-134.us-east-2.compute.amazonaws.com
+  786  cd /etc/ssh
+  787  ls
+  788  vi sshd_config
+  789  vi ssh_config
+  790  ls -ltr
+  791  sudo vi sshd_config
+  792  service restart ssh
+  793  sudo service restart ssh
+  794  sudo service ssh restart
+  795  ls -ltr
+  796  sudo su
+  797  ssh deploy@3.22.63.134
+  798  yum install openssh-server
+  799  ssh deploy@3.22.63.134
+  800  cd /opt
+  801  ls
+  802  clear
+  803  ssh deploy@3.22.63.134
+  804  cd /etc/ssh/
+  805  ls -ltr
+  806   sudo vi sshd_config
+  807  pwd
+  808  clear
+  809  ls -ltr
+  810  pwd
+  811  cd /opt
+  812  ls
+  813  ssh deploy@3.22.63.134
+  814  pwd
+  815  cd /opt
+  816  ls -ltr
+  817  cd ~/PythonFromJenkins/
+  818  ls -ltr
+  819  vi Jenkinsfile
+  820  git add . ;git commit -m "Jenkins file";git push
+  821  pwd
+  822  cd $workspace
+  823  pwd
+  824  cd /var/lib/jenkins/workspace/
+  825  ls -ltr
+  826  rm -r multibranch_pipeline_localBranch
+  827  pwd
+  828  clear
+  829  ls -ltr
+  830  date
+  831  cd ldMultibranchWithWebhooks_master
+  832  ls -ltr
+  833  cd PythonFromJenkins/
+  834  ls -ltr
+  835  vi Jenkinsfile
+  836  pwd
+  837  fit add .;git commit -m "jenkins file";git push
+  838  git add .;git commit -m "jenkins file";git push
+  839  cd /var/lib/jenkins/workspace/
+  840  ls -ltr
+  841  cd ldMultibranchWithWebhooks_master
+  842  ls -ltr
+  843  vi replay_pid6018.log
+  844  vi hs_err_pid6018.log
+  845  ls -ltr
+  846  cd srcHelloWorld/
+  847  ls -ltr
+  848  cd /tmp
+  849  ls -ltr
+  850  cd hsperfdata_jenkins
+  851  ls
+  852  ls -ltr
+  853  vi 3387 
+  854  sudo vi 3387 
+  855  cd systemd-private-b1b3ecf22f1746dca7fbac68506e84f8-chronyd.service-wmai1D
+  856  ls -ltr
+  857  cd /tmp
+  858  ls -ltr
+  859  clear
+  860  pwd
+  861  cd ~/PythonFromJenkins/
+  862  vi Jenkinsfile
+  863  cd PythonFromJenkins/
+  864  ls -ltr
+  865  vi Jenkinsfile
+  866  history
+  867  git add . ;git commit -m "Jenkins file";git push
+  868  clear
+  869  pwd
+  870  ls -ltr
+  871  cd /tmp
+  872  ls -ltr
+  873  cd /var/lib/jenkins/workspace/
+  874  ls -ltr
+  875  date
+  876  cd ldMultibranchWithWebhooks_master@tmp
+  877  ls -ltr
+  878  cd ../ldMultibranchWithWebhooks_master
+  879  ls -ltr
+  880  cd PythonFromJenkins/
+  881  ls -ltr
+  882  cd /var/lib/jenkins/workspace/
+  883  ls -ltr
+  884  clear
+  885  ls -ltr
+  886  cd ldMultibranchWithWebhooks_master@tmp
+  887  ls
+  888  cd ..
+  889  ls -ltr
+  890  clear
+  891  ls -ltr
+  892  cd  ldMultibranchWithWebhooks_master@tmp
+  893  ls
+  894  ls -ltr
+  895  cd ~/PythonFromJenkins/
+  896  ls -ltr
+  897  vi Jenkinsfile
+  898  pwd
+  899  cd -
+  900  cd ..
+  901  ls -ltr
+  902  cd ldMultibranchWithWebhooks_master
+  903  ls -ltr
+  904  date
+  905  pwd
+  906  cd ..
+  907  ls -ltr
+  908  rm -r  ldMultibranchWithWebhooks_master@tmp ldMultibranchWithWebhooks_master tibranchWithWebhooks_localBranch tibranchWithWebhooks_localBranch@tmp ther_multibranch_pipeline_master@tmp ther_multibranch_pipeline_master multibranch_pipeline_localBranch multibranch_pipeline_localBranch@tmp
+  909  clear
+  910  pwd
+  911  ls -ltr
+  912  sudo rm -r  ldMultibranchWithWebhooks_master@tmp ldMultibranchWithWebhooks_master tibranchWithWebhooks_localBranch tibranchWithWebhooks_localBranch@tmp ther_multibranch_pipeline_master@tmp ther_multibranch_pipeline_master multibranch_pipeline_localBranch multibranch_pipeline_localBranch@tmp
+  913  ls -ltr
+  914  vi workspaces.txt 
+  915  ls -ltr
+  916  cd ldMultibranchWithWebhooks_master@tmp
+  917  ls
+  918  ls -ltr
+  919  sudo cat jenkins-gitclient-pass2454006972913879279.sh
+  920  pwd
+  921  ls -ltr
+  922  cd ..
+  923  c;lear
+  924  clear
+  925  pwd
+  926  ls -ltr
+  927  vi workspaces.txt 
+  928  pwd
+  929  clear
+  930  pwd
+  931  ls -ltr
+  932  cd ldMultibranchWithWebhooks_master@tmp
+  933  ls -ltr
+  934  sudo cd durable-9720ed24
+  935  ls -ltr
+  936  gradle --stop
+  937  ls -ltr
+  938  sudo cd durable-cd1cb0f9
+  939  ls -ltr
+  940  cd ~
+  941  pwd
+  942  cd PythonFromJenkins/
+  943  vi Jenkinsfile
+  944  history
+  945  clear
+  946  git add . ;git commit -m "Jenkins file";git push
+  947  cd /var/lib/jenkins/workspace/
+  948  ls -ltr
+  949  clear
+  950  pwd
+  951  ls -ltr
+  952  ls -ltr 
+  953  cd ldMultibranchWithWebhooks_master@tmp
+  954  ls -ltr 
+  955  cd durable-1e624a1a
+  956  ls -ltr
+  957  sudo systemctl stop jenkins
+  958  sudo systemctl start jenkins
+  959  clear
+  960  pwd
+  961  ls -ltr
+  962  cd ..
+  963  ls -ltr
+  964  clear
+  965  pwd
+  966  ls -ltr
+  967  cd ldMultibranchWithWebhooks_master@tmp
+  968  ls
+  969  cd durable-330aad62/
+  970  ls -ltr
+  971  sudo vi jenkins-log.txt
+  972  pwd
+  973  cd ~/PythonFromJenkins/
+  974  vi Jenkinsfile
+  975  sshPublisher(publishers: [sshPublisherDesc(configName: 'deployment',sshCredentials: [username: "$USERNAME",encryptedPassphrase: "$USERPASS"], transfers: [sshTransfer(sourceFiles: './srcHelloWorld/HelloWorld.zip',removePrefix: 'srcHelloWorld/',remoteDirectory: '/tmp',execCommand: 'unzip /tmp/HelloWorld.zip -d /opt/HelloWorld')])
+  976  vi Jenkinsfile
+  977  sshPublisher(publishers: [sshPublisherDesc(configName: 'deployment', transfers: [sshTransfer(excludes: '', execCommand: '', execTimeout: 120000, flatten: false, makeEmptyDirs: false, noDefaultExcludes: false, patternSeparator: '[, ]+', remoteDirectory: 'f_alpha/20180327', remoteDirectorySDF: false, removePrefix: 'target', sourceFiles: 'target/abc-20180327.tar.gz')], usePromotionTimestamp: false, useWorkspaceInPromotion: false, verbose: false)])
+  978  clear
+  979  vi Jenkinsfile
+  980  echo "$."
+  981  echo "."
+  982  echo '$.'
+  983  echo "$pwd"
+  984  echo '$pwd'
+  985  a=pwd
+  986  echo $a
+  987  echo .
+  988  echo $a
+  989  echo $pwd
+  990  echo "$./"
+  991  echo $PWD
+  992  vi Jenkinsfile
+  993  history
+  994  git add . ;git commit -m "Jenkins file";git push
+  995  vi Jenkinsfile
+  996  git add . ;git commit -m "Jenkins file";git push
+  997  clear
+  998  pwd
+  999  vi Jenkinsfile
+ 1000  git add . ;git commit -m "Jenkins file";git push
+ 1001  cd PythonFromJenkins/
+ 1002  vi Jenkinsfile
+ 1003  git add . ;git commit -m "Jenkins file";git push
+ 1004  cd /var/lib/jenkins/workspace/
+ 1005  ls -ltr
+ 1006  cd ldMultibranchWithWebhooks_master
+ 1007  ls -ltr
+ 1008  cd ~/PythonFromJenkins/
+ 1009  vi Jenkinsfile
+ 1010  history > test.txt
