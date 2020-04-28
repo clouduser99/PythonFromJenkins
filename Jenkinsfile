@@ -33,7 +33,7 @@ pipeline
                                 ], 
                                 transfers: [
                                     sshTransfer(
-                                        sourceFiles: './*.zip',
+                                        sourceFiles: './srcHelloWorld/HelloWorld.zip',
                                         removePrefix: 'srcHelloWorld/',
                                         remoteDirectory: '/tmp',
                                         execCommand: 'unzip /home/deploy/tmp/HelloWorld.zip -d /home/deploy/HelloWorld'
