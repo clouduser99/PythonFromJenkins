@@ -33,8 +33,8 @@ pipeline
                                 ], 
                                 transfers: [
                                     sshTransfer(
-                                        sourceFiles: '/tmp/srcHelloWorld/HelloWorld.zip',
-                                        removePrefix: 'tmp/srcHelloWorld/',
+                                        sourceFiles: '/var/lib/jenkins/workspace/ldMultibranchWithWebhooks_master/srcHelloWorld/HelloWorld.zip',
+                                        removePrefix: 'var/lib/jenkins/workspace/ldMultibranchWithWebhooks_master/srcHelloWorld/',
                                         remoteDirectory: '/tmp',
                                         execCommand: 'unzip /tmp/HelloWorld.zip -d ./HelloWorld'
                                     )
