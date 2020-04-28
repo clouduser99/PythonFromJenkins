@@ -36,7 +36,7 @@ pipeline
                                         sourceFiles: './srcHelloWorld/HelloWorld.zip',
                                         removePrefix: 'srcHelloWorld/',
                                         remoteDirectory: '/tmp',
-                                        execCommand: 'unzip /tmp/HelloWorld.zip -d /home/deploy/HelloWorld'
+                                        execCommand: 'unzip /home/deploy/tmp/HelloWorld.zip -d /home/deploy/HelloWorld'
                                     )
                                 ]
                             )
