@@ -26,7 +26,7 @@ pipeline
                         continueOnError: false,
                         publishers: [
                             sshPublisherDesc(
-                                configName: 'deployment',
+                                configName: 'DeploymentServer',
                                 sshCredentials: [
                                     username: "$USERNAME",
                                     encryptedPassphrase: "$USERPASS"
